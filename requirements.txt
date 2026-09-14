@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+
+insightface
+onnxruntime
+faiss-cpu
+opencv-python
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tqdm
